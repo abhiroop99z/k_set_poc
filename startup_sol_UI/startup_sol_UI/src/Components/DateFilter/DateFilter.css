@@ -1,0 +1,17 @@
+.react-datepicker__input-container input{
+    width: 180px;
+    margin: 2px;
+    margin-top : 10px;
+}
+
+DatePicker{
+    padding: 2px;
+}
+
+/* Adding responsive behaviour */
+@media (max-width : 900px) {
+    .react-datepicker__input-container input {
+        width : 120px;
+
+    }
+}

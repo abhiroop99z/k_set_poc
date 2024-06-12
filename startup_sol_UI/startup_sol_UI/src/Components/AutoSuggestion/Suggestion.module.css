@@ -1,0 +1,7 @@
+div{
+    width : 100%;
+    height: 2em;
+    display: flex;
+    border-bottom: 1px solid #d8d8d852;
+    padding : 6px 8px;
+}

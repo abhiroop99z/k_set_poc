@@ -1,0 +1,238 @@
+.me-2 {
+  font-size: 15px;
+  /* text-align: center; */
+  /* line-height: 2px; */
+  /* letter-spacing: 1px; */
+  font-weight: 400;
+  display: inline-block;
+  outline-style: none;
+  vertical-align: top;
+  font-size: 20px;
+  height: 30px;
+  /* margin: 1px 0px 0px 6px; */
+  /* background-color: transparent; */
+}
+
+.customSearchNav {
+  border-radius: 24px;
+  margin-top: 15px;
+  background-color: #fff;
+}
+
+#form {
+  width: 500px !important;
+  height: 50px;
+  margin-left: 50px;
+  background-color: #fff;
+  border-radius: 14px;
+  box-shadow: 2px 2px 28px -1px rgb(148 148 148 / 64%);
+}
+
+.suggestionClass {
+  display: block;
+  cursor: pointer;
+  top: 60px;
+  left: 274px;
+  position: absolute;
+  width: 45%;
+  /* min-height: 100px; */
+  height: 300px;
+  z-index: 102;
+  cursor: default;
+  background-color: #ffffff;
+  border-style: solid;
+  border-width: 4px;
+  border-color: #ffffff;
+  border-collapse: separate;
+  border-radius: 8px;
+  box-shadow: 2px 2px 28px -1px rgb(148 148 148 / 64%);
+  overflow: scroll;
+}
+.ListGroup {
+  height: auto;
+  margin: 0;
+  border-width: 0px;
+
+  /* opacity: 0.5; */
+}
+.ListGroup:hover {
+  background-color: rgb(160, 164, 172);
+  /* opacity: 0.5; */
+}
+.ListGroup:hover .cardValue {
+  color: rgb(8, 28, 68);
+  /* opacity: 0.5; */
+}
+
+.key {
+  float: left;
+  text-align: left;
+  font-size: 12px;
+  width: 70%;
+  margin: 0;
+}
+.noKey {
+  text-align: center;
+  font-size: 17px;
+  font-weight: 500;
+  /* width: 70%; */
+  margin: 25%;
+}
+
+.cardValue {
+  float: right;
+  text-align: right;
+  color: rgb(189, 169, 146);
+  font-size: 10px;
+  margin: 0;
+}
+
+.suggestionClassList {
+  /* height: 40px; */
+  border-top-width: 0px;
+  border-bottom-width: 0px;
+}
+
+/* .key{
+  font-size: 20px;
+  width: auto;
+  height: 100%;
+}
+.value{
+  font-size: 20px;
+  margin-left: 10px;
+  display: flex;
+  flex : 0.2;
+} */
+
+.form-control {
+  background-color: bisque;
+}
+
+#form:hover {
+  border-color: rgb(218, 207, 109);
+  background-color: #fff;
+  /* letter-spacing: 1px; */
+}
+
+.searchIcon {
+  position: absolute;
+  /* right: 5px;
+  top: 5px;
+  z-index: 9999;  */
+}
+
+.searchButton {
+  cursor: pointer;
+  width: 100px;
+  margin-left: 25px;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  border: 1px solid;
+  border-radius: 40px;
+
+  color: rgb(39, 7, 54);
+  background-color: #fff;
+  font-size: 18px;
+  /* letter-spacing: 1px; */
+  box-sizing: border-box;
+  /* border-radius: 10px; */
+
+  border: 1px solid;
+  border-radius: 40px;
+}
+
+.searchButton:focus {
+  outline: none !important;
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+  /* border: none !important; */
+}
+
+.searchButton:hover {
+  background-color: rgba(151, 149, 149, 0.534);
+  border-color: #fff;
+  color: black;
+}
+
+.dropDownButton {
+  min-width: 170px !important;
+}
+
+.nav-item .nav-link:hover {
+  color: rgb(39, 7, 54);
+  background-color: #fff;
+  /* font-size: 18px;
+    box-sizing: border-box;
+    font-weight: 200;
+    border: 1px solid;
+    border-radius: 40px; */
+}
+
+.nav-item .nav-link {
+  /* background-color: rgb(129, 207, 214);
+    color : #fff; */
+
+  color: rgb(39, 7, 54);
+  background-color: #fff;
+  font-size: 18px;
+  /* letter-spacing: 1px; */
+  box-sizing: border-box;
+  /* border-radius: 10px; */
+
+  border: 1px solid;
+  border-radius: 40px;
+}
+
+.nav-item a:hover {
+  color: rgb(170, 18, 99);
+  background-color: rgba(51, 138, 123, 0.171);
+  letter-spacing: 1px;
+}
+.nav-item a {
+  /* font-size: 18px; */
+  letter-spacing: 1px;
+  text-transform: capitalize;
+}
+
+/* Responsive */
+
+@media (max-width: 600px) {
+  .me-2 {
+    font-size: 15px;
+    /* text-align: center; */
+    line-height: 2px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    /* display: inline-block; */
+    outline-style: none;
+    vertical-align: top;
+    font-size: 20px;
+    height: 30px;
+    /* margin: 1px 0px 0px 6px; */
+    background-color: transparent;
+  }
+  #form {
+    width: 200px !important;
+    height: 50px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    background-color: #fff;
+    border-radius: 14px;
+    box-shadow: 2px 2px 28px -1px rgb(148 148 148 / 64%);
+  }
+  .searchButton {
+    width: 100px;
+    margin-left: 25px;
+    margin-top: 25px;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    border-radius: 10px;
+  }
+  .nav-item {
+    width: 150px;
+    margin-left: 50px;
+  }
+}

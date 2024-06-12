@@ -1,0 +1,66 @@
+.paginateCard{
+    /* margin-top: 100px; */
+    /* box-shadow: 3px 3px rgb(22, 9, 109); */
+    margin: 5%;
+    border-radius: 0px;
+    border-style: hidden;
+    height: 50px;
+    padding: 0;
+}
+
+.paginateCard card {
+    border-style:  none;
+}
+
+.paginationButtons {
+  text-decoration: none;
+    /* width: 93%; */
+    /* height: 20px; */
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    /* margin-top : 50px; */
+  }
+  
+  .paginationButtons a {
+    text-decoration: none;
+    padding: 10px;
+    margin: 8px;
+    border-radius: 5px;
+    font-size : 15px;
+    font-weight: 400;
+    color: black; 
+    /* border: 1px solid #2b2eff; */
+    /* color: #2b2eff; */
+    cursor: pointer;
+  }
+  
+  .paginationButtons a:hover {
+    color: black;
+    background-color: #eeeef1;
+  }
+  
+  .paginationActive a {
+    color: white;
+    background-color: #7a7b88;
+  }
+  
+  .paginationDisabled a {
+    color: black;
+    text-decoration: line-through;
+    /* background-color: rgb(190, 13, 13); */
+  }
+
+
+  /* Responsive */
+
+  /* @media screen and (max-width) {
+    .paginationButtons {
+        width: 40%;
+        height: 20px;
+        list-style: none;
+        display: flex;
+        justify-content: flex-end;
+        margin-top : 50px;
+      }
+  } */

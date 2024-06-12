@@ -1,0 +1,5 @@
+this code has new schema, dh and rdf formed after discussing with Rahul.
+
+things to change in future version:
+	- integrate the new generic function of formatting_response() - done
+	- Make classes for path travesal and graphs -done

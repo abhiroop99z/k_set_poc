@@ -1,0 +1,184 @@
+.customContainer {
+  margin-top: 1%;
+}
+
+.customCard {
+  box-shadow: 3px 3px rgb(108, 106, 124);
+  margin-left: 3%;
+  margin-right: 3%;
+  margin-top: 1%;
+  margin-bottom: 2%;
+  border-radius: 15px;
+  /* border-color: rgb(218, 207, 109); */
+}
+
+/* .card-body{
+    padding: 0;
+} */
+
+.customCardBody {
+  padding-top: 0px;
+}
+
+.title {
+  text-align: left;
+  padding-left: 15px;
+  padding-top: 0px;
+  margin-bottom: 13px;
+  margin-top: 0px;
+  font-size: 24px;
+  letter-spacing: 1px;
+  line-height: 1.1;
+  font-weight: 500;
+}
+
+/* For viewing the documents starts */
+.subTitle {
+  text-align: left;
+  padding: 0px 15px;
+  font-size: 15px;
+  font-weight: 400;
+  text-decoration: none;
+  color: rgb(91, 130, 221);
+}
+
+a {
+  color: rgb(91, 130, 221);
+  cursor: pointer;
+  text-decoration: none;
+}
+.documentLink {
+  color: rgb(91, 130, 221);
+}
+/* For viewing the documents ends*/
+
+hr {
+  margin-top: 4px;
+  margin-bottom: 0;
+}
+
+.traversal {
+  width: 50%;
+  float: right;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 400;
+  /* margin : 0; */
+}
+
+.cardData {
+  text-align: left;
+  font-size: 15px;
+  font-weight: 400;
+  padding: 0px;
+  margin: 0px;
+  /* width: 700px; */
+  line-break: auto;
+  /* text-decoration: underline; */
+}
+.cardDatas {
+  text-align: right;
+  float: right;
+  font-size: 15px;
+  font-weight: 400;
+  padding: 0px;
+  margin: 0px;
+  /* width: 300px; */
+  /* text-decoration: underline; */
+}
+
+/*On hover Preview box styles */
+
+.preview {
+  width: inherit;
+  height: 500px;
+}
+
+.box {
+  display: none;
+  width: 100%;
+
+  /* position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  z-index: 20;
+  background-color: rgba(0, 0, 0, 0.75); */
+}
+
+a:hover + .box,
+.box:hover {
+  display: block;
+  top: -60px;
+  left: 450px;
+  position: absolute;
+  max-width: 50%;
+  min-height: 100px;
+  z-index: 102;
+  cursor: default;
+  background-color: #ffffff;
+  border-style: solid;
+  border-width: 4px;
+  border-color: #eee7e7;
+  border-collapse: separate;
+  border-radius: 5px;
+  box-shadow: 2px 2px 28px -1px rgb(148 148 148 / 64%);
+}
+
+/* Read more and show less */
+
+.moreText {
+  color: blue;
+  text-decoration: underline;
+}
+
+/* Adding responsive behaviour */
+
+@media (max-width: 700px) {
+  .traversal {
+    width: 100%;
+    float: left;
+    text-align: start;
+    /* margin : 0; */
+  }
+}
+
+/* @media (max-width : 900px) {
+    a:hover + .box,
+.box:hover {
+  display: block;
+  top: -60px;
+  left: 50px;
+  position: absolute;
+  min-width: 300px;
+  min-height: 100px;
+  z-index: 102;
+  cursor: default;
+  background-color: #ffffff;
+  border-style: solid;
+  border-width: 4px;
+  border-color: #eee7e7;
+  border-collapse: separate;
+  border-radius: 5px;
+  box-shadow: 2px 2px 28px -1px rgb(148 148 148 / 64%);
+}
+} */
+
+/* On hover Preview box styles backup
+
+.preview{
+    width: 500px;
+    height: 500px;
+}
+
+.box {
+    display: none;
+    width : 100%;
+}
+
+a:hover + .box, .box:hover {
+    display: block;
+    position: relative;
+    z-index: 100;
+} */

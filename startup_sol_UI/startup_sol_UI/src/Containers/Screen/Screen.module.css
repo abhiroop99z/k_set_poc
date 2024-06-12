@@ -1,0 +1,22 @@
+.defaultMessage {
+    /* margin-top: 15%;
+    margin-left: 25%; */
+    /* margin : 27%; */
+    margin-left : 27%;
+    margin-top : 15%;
+
+    /* align-content: center; */
+}
+
+.defaultMessageText {
+    font-size: 25px;
+    line-height: 10px;
+    font-weight: 200;
+    color: black;
+    letter-spacing: 2px;
+
+}
+
+/* .custom {
+    background-color: rgb(228, 222, 222);
+} */

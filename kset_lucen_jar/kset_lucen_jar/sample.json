@@ -1,0 +1,1098 @@
+{
+    "bot.1" : {
+        "type.is_a" : "entity.company",
+        "company.literal.company_name" : "Cisco",
+        "company.literal.city" : "Pune",
+        "company.literal.state" : "Maharashtra",
+        "company.literal.country" : "India",
+        "company.technology_focus.has_technology_focus" : [
+            "bot.2",
+            "bot.21"
+        ],
+        "company.engagement_details.has_eng_details" : [
+            "bot.3",
+            "bot.31"
+        ],
+        "company.venture_capitalist.has_venture" : [
+            "bot.4",
+            "bot.41"
+        ],
+        "company.vertical.has_vertical" : [
+            "bot.5",
+            "bot.51"
+        ],
+        "company.active_customers.has_customers" : [
+            "bot.9",
+            "bot.91"
+        ],
+        "company.usecase.has_usecase" : [
+            "bot.7",
+            "bot.71"
+        ]
+    },
+
+    "bot.11" : {
+        "type.is_a" : "entity.company",
+        "company.literal.company_name" : "IBM",
+        "company.literal.city" : "Noida",
+        "company.literal.state" : "Uttar Pradesh",
+        "company.literal.country" : "India",
+        "company.technology_focus.has_technology_focus" : [
+            "bot.21",
+            "bot.25"
+        ],
+        "company.engagement_details.has_eng_details" : [
+            "bot.31",
+            "bot.32"
+        ],
+        "company.venture_capitalist.has_venture" : [
+            "bot.41",
+            "bot.43"
+        ],
+        "company.vertical.has_vertical" : [
+            "bot.51",
+            "bot.54"
+        ],
+        "company.active_customers.has_customers" : [
+            "bot.91",
+            "bot.93"
+        ],
+        "company.usecase.has_usecase" : [
+            "bot.71",
+            "bot.72"
+        ]
+    },
+
+    "bot.12" : {
+        "type.is_a" : "entity.company",
+        "company.literal.company_name" : "DELL",
+        "company.literal.city" : "Mumbai",
+        "company.literal.state" : "Maharashtra",
+        "company.literal.country" : "India",
+        "company.technology_focus.has_technology_focus" : [
+            "bot.22",
+            "bot.27"
+        ],
+        "company.engagement_details.has_eng_details" : [
+            "bot.32",
+            "bot.34"
+        ],
+        "company.venture_capitalist.has_venture" : [
+            "bot.42",
+            "bot.45"
+        ],
+        "company.vertical.has_vertical" : [
+            "bot.52",
+            "bot.57"
+        ],
+        "company.active_customers.has_customers" : [
+            "bot.92",
+            "bot.95"
+        ],
+        "company.usecase.has_usecase" : [
+            "bot.72",
+            "bot.74"
+        ]
+    },
+
+    "bot.13" : {
+        "type.is_a" : "entity.company",
+        "company.literal.company_name" : "Infosys",
+        "company.literal.city" : "Gurugram",
+        "company.literal.state" : "Uttar Pradesh",
+        "company.literal.country" : "India",
+        "company.technology_focus.has_technology_focus" : [
+            "bot.23",
+            "bot.29"
+        ],
+        "company.engagement_details.has_eng_details" : [
+            "bot.33",
+            "bot.36"
+        ],
+        "company.venture_capitalist.has_venture" : [
+            "bot.43",
+            "bot.48"
+        ],
+        "company.vertical.has_vertical" : [
+            "bot.53",
+            "bot.58"
+        ],
+        "company.active_customers.has_customers" : [
+            "bot.93",
+            "bot.96"
+        ],
+        "company.usecase.has_usecase" : [
+            "bot.73",
+            "bot.76"
+        ]
+    },
+
+    "bot.14" : {
+        "type.is_a" : "entity.company",
+        "company.literal.company_name" : "Tech Mahindra",
+        "company.literal.city" : "Pune",
+        "company.literal.state" : "Maharashtra",
+        "company.literal.country" : "India",
+        "company.technology_focus.has_technology_focus" : [
+            "bot.24",
+            "bot.22"
+        ],
+        "company.engagement_details.has_eng_details" : [
+            "bot.34",
+            "bot.37"
+        ],
+        "company.venture_capitalist.has_venture" : [
+            "bot.44",
+            "bot.4"
+        ],
+        "company.vertical.has_vertical" : [
+            "bot.54",
+            "bot.5"
+        ],
+        "company.active_customers.has_customers" : [
+            "bot.94",
+            "bot.98"
+        ],
+        "company.usecase.has_usecase" : [
+            "bot.74",
+            "bot.77"
+        ]
+    },
+
+    "bot.15" : {
+        "type.is_a" : "entity.company",
+        "company.literal.company_name" : "Oracle",
+        "company.literal.city" : "Mumbai",
+        "company.literal.state" : "Maharashtra",
+        "company.literal.country" : "India",
+        "company.technology_focus.has_technology_focus" : [
+            "bot.25"
+        ],
+        "company.engagement_details.has_eng_details" : [
+            "bot.35"
+        ],
+        "company.venture_capitalist.has_venture" : [
+            "bot.45"
+        ],
+        "company.vertical.has_vertical" : [
+            "bot.55"
+        ],
+        "company.active_customers.has_customers" : [
+            "bot.95"
+        ],
+        "company.usecase.has_usecase" : [
+            "bot.75"
+        ]
+    },
+
+    "bot.16" : {
+        "type.is_a" : "entity.company",
+        "company.literal.company_name" : "Larsen & Toubro Infotech",
+        "company.literal.city" : "Mumbai",
+        "company.literal.state" : "Maharashtra",
+        "company.literal.country" : "India",
+        "company.technology_focus.has_technology_focus" : [
+            "bot.26"
+        ],
+        "company.engagement_details.has_eng_details" : [
+            "bot.36"
+        ],
+        "company.venture_capitalist.has_venture" : [
+            "bot.46"
+        ],
+        "company.vertical.has_vertical" : [
+            "bot.56"
+        ],
+        "company.active_customers.has_customers" : [
+            "bot.96"
+        ],
+        "company.usecase.has_usecase" : [
+            "bot.76"
+        ]
+    },
+
+    "bot.17" : {
+        "type.is_a" : "entity.company",
+        "company.literal.company_name" : "Mphasis",
+        "company.literal.city" : "Bangalore",
+        "company.literal.state" : "Karnatka",
+        "company.literal.country" : "India",
+        "company.technology_focus.has_technology_focus" : [
+            "bot.27"
+        ],
+        "company.engagement_details.has_eng_details" : [
+            "bot.37"
+        ],
+        "company.venture_capitalist.has_venture" : [
+            "bot.47"
+        ],
+        "company.vertical.has_vertical" : [
+            "bot.57"
+        ],
+        "company.active_customers.has_customers" : [
+            "bot.97"
+        ],
+        "company.usecase.has_usecase" : [
+            "bot.77"
+        ]
+    },
+
+    "bot.18" : {
+        "type.is_a" : "entity.company",
+        "company.literal.company_name" : "Mindtree",
+        "company.literal.city" : "Bangalore",
+        "company.literal.state" : "Karnatka",
+        "company.literal.country" : "India",
+        "company.technology_focus.has_technology_focus" : [
+            "bot.28"
+        ],
+        "company.engagement_details.has_eng_details" : [
+            "bot.38"
+        ],
+        "company.venture_capitalist.has_venture" : [
+            "bot.48"
+        ],
+        "company.vertical.has_vertical" : [
+            "bot.58"
+        ],
+        "company.active_customers.has_customers" : [
+            "bot.98"
+        ],
+        "company.usecase.has_usecase" : [
+            "bot.78"
+        ]
+    },
+
+    "bot.19" : {
+        "type.is_a" : "entity.company",
+        "company.literal.company_name" : "Cognizant",
+        "company.literal.city" : "Kochi",
+        "company.literal.state" : "Kerala",
+        "company.literal.country" : "India",
+        "company.technology_focus.has_technology_focus" : [
+            "bot.29",
+            "bot.22"
+        ],
+        "company.engagement_details.has_eng_details" : [
+            "bot.39",
+            "bot.32"
+        ],
+        "company.venture_capitalist.has_venture" : [
+            "bot.49",
+            "bot.42"
+        ],
+        "company.vertical.has_vertical" : [
+            "bot.59",
+            "bot.52"
+        ],
+        "company.active_customers.has_customers" : [
+            "bot.99",
+            "bot.92"
+        ],
+        "company.usecase.has_usecase" : [
+            "bot.79",
+            "bot.72"
+        ]
+    },
+
+
+    "bot.2" : {
+        "type.is_a" : "entity.technology_focus",
+        "technology_focus.literal.technology" : "Artificial Intelligence(AI)",
+        "technology_focus.company.tech_of_company" : [
+            "bot.1"
+        ]
+    },
+
+    "bot.21" : {
+        "type.is_a" : "entity.technology_focus",
+        "technology_focus.literal.technology" : "Natural Language Processing(NLP)",
+        "technology_focus.company.tech_of_company" : [
+            "bot.11",
+            "bot.1"
+        ]
+    },
+
+    "bot.22" : {
+        "type.is_a" : "entity.technology_focus",
+        "technology_focus.literal.technology" : "Converstional AI",
+        "technology_focus.company.tech_of_company" : [
+            "bot.12",
+            "bot.14",
+            "bot.19"
+        ]
+    },
+
+    "bot.23" : {
+        "type.is_a" : "entity.technology_focus",
+        "technology_focus.literal.technology" : "Machine Learning (ML)",
+        "technology_focus.company.tech_of_company" : [
+            "bot.13"
+        ]
+    },
+
+    "bot.24" : {
+        "type.is_a" : "entity.technology_focus",
+        "technology_focus.literal.technology" : "Deep Learning (DL)",
+        "technology_focus.company.tech_of_company" : [
+            "bot.14"
+        ]
+    },
+
+    "bot.25" : {
+        "type.is_a" : "entity.technology_focus",
+        "technology_focus.literal.technology" : "Python",
+        "technology_focus.company.tech_of_company" : [
+            "bot.15",
+            "bot.11"
+        ]
+    },
+
+    "bot.26" : {
+        "type.is_a" : "entity.technology_focus",
+        "technology_focus.literal.technology" : "Spring boot : Advanced Java",
+        "technology_focus.company.tech_of_company" : [
+            "bot.16"
+        ]
+    },
+
+    "bot.27" : {
+        "type.is_a" : "entity.technology_focus",
+        "technology_focus.literal.technology" : "Supervised Learning",
+        "technology_focus.company.tech_of_company" : [
+            "bot.17",
+            "bot.12"
+        ]
+    },
+
+    "bot.28" : {
+        "type.is_a" : "entity.technology_focus",
+        "technology_focus.literal.technology" : "Unsupervised Learning",
+        "technology_focus.company.tech_of_company" : [
+            "bot.18"
+        ]
+    },
+
+    "bot.29" : {
+        "type.is_a" : "entity.technology_focus",
+        "technology_focus.literal.technology" : "Auto Machine Learning",
+        "technology_focus.company.tech_of_company" : [
+            "bot.19",
+            "bot.13"
+        ]
+    },
+
+    "bot.3" : {
+        "type.is_a" : "entity.engagement_details",
+        "engagement_details.literal.engagement_name" : "Engagement : PoC on Artificial Intelligence",
+        "engagement_details.company.eng_of_company" : [
+            "bot.1"
+        ]
+    },
+
+    "bot.31" : {
+        "type.is_a" : "entity.engagement_details",
+        "engagement_details.literal.engagement_name" : "Engagement : Natural Language Processing",
+        "engagement_details.company.eng_of_company" : [
+            "bot.11",
+            "bot.1"
+        ]
+    },
+
+    "bot.32" : {
+        "type.is_a" : "entity.engagement_details",
+        "engagement_details.literal.engagement_name" : "Engagement : PoC on Chatbot for IT Support and Management",
+        "engagement_details.company.eng_of_company" : [
+            "bot.12",
+            "bot.11",
+            "bot.19"
+        ]
+    },
+
+    "bot.33" : {
+        "type.is_a" : "entity.engagement_details",
+        "engagement_details.literal.engagement_name" : "Engagement : Machine Learning",
+        "engagement_details.company.eng_of_company" : [
+            "bot.13"
+        ]
+    },
+
+    "bot.34" : {
+        "type.is_a" : "entity.engagement_details",
+        "engagement_details.literal.engagement_name" : "Engagement : Deep Learning",
+        "engagement_details.company.eng_of_company" : [
+            "bot.14",
+            "bot.12"
+        ]
+    },
+
+    "bot.35" : {
+        "type.is_a" : "entity.engagement_details",
+        "engagement_details.literal.engagement_name" : "Engagement : Python",
+        "engagement_details.company.eng_of_company" : [
+            "bot.15"
+        ]
+    },
+
+    "bot.36" : {
+        "type.is_a" : "entity.engagement_details",
+        "engagement_details.literal.engagement_name" : "Engagement : Spring boot Advanced Java",
+        "engagement_details.company.eng_of_company" : [
+            "bot.16",    
+            "bot.13"
+        ]
+    },
+
+    "bot.37" : {
+        "type.is_a" : "entity.engagement_details",
+        "engagement_details.literal.engagement_name" : "Engagement : Supervised Learning",
+        "engagement_details.company.eng_of_company" : [
+            "bot.17",
+            "bot.14"
+        ]
+    },
+
+    "bot.38" : {
+        "type.is_a" : "entity.engagement_details",
+        "engagement_details.literal.engagement_name" : "Engagement : Unsupervised Learning",
+        "engagement_details.company.eng_of_company" : [
+            "bot.18"
+        ]
+    },
+
+    "bot.39" : {
+        "type.is_a" : "entity.engagement_details",
+        "engagement_details.literal.engagement_name" : "Engagement : Auto Machine Learning",
+        "engagement_details.company.eng_of_company" : [
+            "bot.19",
+            "bot.12"
+        ]
+    },
+
+
+    "bot.4" : {
+        "type.is_a" : "entity.venture_capitalist",
+        "venture_capitalist.literal.venture_name" : "Venture : PoC on Artificial Intelligence",
+        "venture_capitalist.company.venture_of_company" : [
+            "bot.1",
+            "bot.14"
+        ]
+    },
+
+    "bot.41" : {
+        "type.is_a" : "entity.venture_capitalist",
+        "venture_capitalist.literal.venture_name" : "Venture : PoC on Natural Language Processing",
+        "venture_capitalist.company.venture_of_company" : [
+            "bot.11",
+            "bot.1"
+        ]
+    },
+
+    "bot.42" : {
+        "type.is_a" : "entity.venture_capitalist",
+        "venture_capitalist.literal.venture_name" : "Venture : PoC on Chatbot",
+        "venture_capitalist.company.venture_of_company" : [
+            "bot.12",
+            "bot.19"
+        ]
+    },
+
+    "bot.43" : {
+        "type.is_a" : "entity.venture_capitalist",
+        "venture_capitalist.literal.venture_name" : "Venture : PoC on Machine Learning",
+        "venture_capitalist.company.venture_of_company" : [
+            "bot.13",
+            "bot.11"
+        ]
+    },
+
+    "bot.44" : {
+        "type.is_a" : "entity.venture_capitalist",
+        "venture_capitalist.literal.venture_name" : "Venture : PoC on Deep Learning",
+        "venture_capitalist.company.venture_of_company" : [
+            "bot.14"
+        ]
+    },
+
+    "bot.45" : {
+        "type.is_a" : "entity.venture_capitalist",
+        "venture_capitalist.literal.venture_name" : "Venture : PoC on Python",
+        "venture_capitalist.company.venture_of_company" : [
+            "bot.15",
+            "bot.12",
+            "bot.19"
+        ]
+    },
+
+    "bot.46" : {
+        "type.is_a" : "entity.venture_capitalist",
+        "venture_capitalist.literal.venture_name" : "Venture : PoC on Advanced Java",
+        "venture_capitalist.company.venture_of_company" : [
+            "bot.16"
+        ]
+    },
+
+    "bot.47" : {
+        "type.is_a" : "entity.venture_capitalist",
+        "venture_capitalist.literal.venture_name" : "Venture : PoC on Supervised Learning",
+        "venture_capitalist.company.venture_of_company" : [
+            "bot.17"
+        ]
+    },
+
+    "bot.48" : {
+        "type.is_a" : "entity.venture_capitalist",
+        "venture_capitalist.literal.venture_name" : "Venture : PoC on Unsupervised Learning",
+        "venture_capitalist.company.venture_of_company" : [
+            "bot.18",
+            "bot.13",
+            "bot.19"
+        ]
+    },
+
+    "bot.49" : {
+        "type.is_a" : "entity.venture_capitalist",
+        "venture_capitalist.literal.venture_name" : "Venture : PoC on Auto Machine Learning",
+        "venture_capitalist.company.venture_of_company" : [
+            "bot.19"
+        ]
+    },
+
+    "bot.5" : {
+        "type.is_a" : "entity.vertical",
+        "vertical.literal.vertical_name" : "Business Automation",
+        "vertical.company.vertical_of_company" : [
+            "bot.1",
+            "bot.14"
+        ]
+    },
+
+    "bot.51" : {
+        "type.is_a" : "entity.vertical",
+        "vertical.literal.vertical_name" : "Banking",
+        "vertical.company.vertical_of_company" : [
+            "bot.11",
+            "bot.1"
+        ]
+    },
+
+    "bot.52" : {
+        "type.is_a" : "entity.vertical",
+        "vertical.literal.vertical_name" : "IT Support",
+        "vertical.company.vertical_of_company" : [
+            "bot.12",
+            "bot.19"
+        ]
+    },
+
+    "bot.53" : {
+        "type.is_a" : "entity.vertical",
+        "vertical.literal.vertical_name" : "Marketing",
+        "vertical.company.vertical_of_company" : [
+            "bot.13"
+        ]
+    },
+
+    "bot.54" : {
+        "type.is_a" : "entity.vertical",
+        "vertical.literal.vertical_name" : "Big Data",
+        "vertical.company.vertical_of_company" : [
+            "bot.14",
+            "bot.11"
+        ]
+    },
+
+    "bot.55" : {
+        "type.is_a" : "entity.vertical",
+        "vertical.literal.vertical_name" : "E commerce",
+        "vertical.company.vertical_of_company" : [
+            "bot.15"
+        ]
+    },
+
+    "bot.56" : {
+        "type.is_a" : "entity.vertical",
+        "vertical.literal.vertical_name" : "Gaming",
+        "vertical.company.vertical_of_company" : [
+            "bot.16"
+        ]
+    },
+
+    "bot.57" : {
+        "type.is_a" : "entity.vertical",
+        "vertical.literal.vertical_name" : "Infrastructure",
+        "vertical.company.vertical_of_company" : [
+            "bot.17",
+            "bot.12"
+        ]
+    },
+
+    "bot.58" : {
+        "type.is_a" : "entity.vertical",
+        "vertical.literal.vertical_name" : "Internet of Things(IoT)",
+        "vertical.company.vertical_of_company" : [
+            "bot.18",
+            "bot.13",
+            "bot.19"
+        ]
+    },
+
+    "bot.59" : {
+        "type.is_a" : "entity.vertical",
+        "vertical.literal.vertical_name" : "Robotics and drones",
+        "vertical.company.vertical_of_company" : [
+            "bot.19"
+        ]
+    },
+
+    "bot.6" : {
+        "type.is_a" : "entity.feedback",
+        "feedback.literal.feedback" : "Multilingual Chatbot",
+        "feedback.usecase.feedback_for_usecase" : [
+            "bot.7"
+        ],
+        "feedback.zensar_customer.feedback_for_zcustomer" : [
+            "bot.8"
+        ]
+    },
+
+    "bot.61" : {
+        "type.is_a" : "entity.feedback",
+        "feedback.literal.feedback" : "Universal bot",
+        "feedback.usecase.feedback_for_usecase" : [
+            "bot.71"
+        ],
+        "feedback.zensar_customer.feedback_for_zcustomer" : [
+            "bot.81"
+        ]
+    },
+
+    "bot.62" : {
+        "type.is_a" : "entity.feedback",
+        "feedback.literal.feedback" : "Ticket History and IT support chatbot",
+        "feedback.usecase.feedback_for_usecase" : [
+            "bot.72"
+        ],
+        "feedback.zensar_customer.feedback_for_zcustomer" : [
+            "bot.82"
+        ]
+    },
+
+    "bot.63" : {
+        "type.is_a" : "entity.feedback",
+        "feedback.literal.feedback" : "Universal bot for connecting different bots",
+        "feedback.usecase.feedback_for_usecase" : [
+            "bot.73"
+        ],
+        "feedback.zensar_customer.feedback_for_zcustomer" : [
+            "bot.83"
+        ]
+    },
+
+    "bot.64" : {
+        "type.is_a" : "entity.feedback",
+        "feedback.literal.feedback" : "Big data analytics in the cloud",
+        "feedback.usecase.feedback_for_usecase" : [
+            "bot.74"
+        ],
+        "feedback.zensar_customer.feedback_for_zcustomer" : [
+            "bot.84"
+        ]
+    },
+
+    "bot.65" : {
+        "type.is_a" : "entity.feedback",
+        "feedback.literal.feedback" : "chatbot for ecommerce",
+        "feedback.usecase.feedback_for_usecase" : [
+            "bot.75"
+        ],
+        "feedback.zensar_customer.feedback_for_zcustomer" : [
+            "bot.85"
+        ]
+    },
+
+    "bot.66" : {
+        "type.is_a" : "entity.feedback",
+        "feedback.literal.feedback" : "Games using XR technologies",
+        "feedback.usecase.feedback_for_usecase" : [
+            "bot.76"
+        ],
+        "feedback.zensar_customer.feedback_for_zcustomer" : [
+            "bot.86"
+        ]
+    },
+
+    "bot.67" : {
+        "type.is_a" : "entity.feedback",
+        "feedback.literal.feedback" : "Infrastructure based",
+        "feedback.usecase.feedback_for_usecase" : [
+            "bot.77"
+        ],
+        "feedback.zensar_customer.feedback_for_zcustomer" : [
+            "bot.87"
+        ]
+    },
+
+    "bot.68" : {
+        "type.is_a" : "entity.feedback",
+        "feedback.literal.feedback" : "Computing devices",
+        "feedback.usecase.feedback_for_usecase" : [
+            "bot.78"
+        ],
+        "feedback.zensar_customer.feedback_for_zcustomer" : [
+            "bot.88"
+        ]
+    },
+
+    "bot.69" : {
+        "type.is_a" : "entity.feedback",
+        "feedback.literal.feedback" : "Drones for power grid maintenance",
+        "feedback.usecase.feedback_for_usecase" : [
+            "bot.79"
+        ],
+        "feedback.zensar_customer.feedback_for_zcustomer" : [
+            "bot.89"
+        ]
+    },
+
+    "bot.7" : {
+        "type.is_a" : "entity.usecase",
+        "usecase.literal.usecase" : "Chatbot for Business automation",
+        "usecase.feedback.usecase_has_feedback" : [
+            "bot.6"
+        ],
+        "usecase.company.usecase_of_company" : [
+            "bot.1"
+        ],
+        "usecase.zensar_customer.usecase_has_Zcustomer" : [
+            "bot.8"
+        ]
+    },
+
+    "bot.71" : {
+        "type.is_a" : "entity.usecase",
+        "usecase.literal.usecase" : "Chatbot for Banking",
+        "usecase.feedback.usecase_has_feedback" : [
+            "bot.61"
+        ],
+        "usecase.company.usecase_of_company" : [
+            "bot.11",
+            "bot.1"
+        ],
+        "usecase.zensar_customer.usecase_has_Zcustomer" : [
+            "bot.81"
+        ]
+    },
+
+    "bot.72" : {
+        "type.is_a" : "entity.usecase",
+        "usecase.literal.usecase" : "Chatbot for IT Support",
+        "usecase.feedback.usecase_has_feedback" : [
+            "bot.62"
+        ],
+        "usecase.company.usecase_of_company" : [
+            "bot.12",
+            "bot.11",
+            "bot.19"
+        ],
+        "usecase.zensar_customer.usecase_has_Zcustomer" : [
+            "bot.82"
+        ]
+    },
+
+    "bot.73" : {
+        "type.is_a" : "entity.usecase",
+        "usecase.literal.usecase" : "Chatbot for Marketing",
+        "usecase.feedback.usecase_has_feedback" : [
+            "bot.63"
+        ],
+        "usecase.zensar_customer.usecase_has_Zcustomer" : [
+            "bot.83"
+        ]
+    },
+
+    "bot.74" : {
+        "type.is_a" : "entity.usecase",
+        "usecase.literal.usecase" : "Big data related usecase",
+        "usecase.feedback.usecase_has_feedback" : [
+            "bot.64"
+        ],
+        "usecase.company.usecase_of_company" : [
+            "bot.14",
+            "bot.12"
+        ],
+        "usecase.zensar_customer.usecase_has_Zcustomer" : [
+            "bot.84"
+        ]
+    },
+
+    "bot.75" : {
+        "type.is_a" : "entity.usecase",
+        "usecase.literal.usecase" : "Chatbot for ecommerce",
+        "usecase.feedback.usecase_has_feedback" : [
+            "bot.65"
+        ],
+        "usecase.company.usecase_of_company" : [
+            "bot.15"
+        ],
+        "usecase.zensar_customer.usecase_has_Zcustomer" : [
+            "bot.85"
+        ]
+    },
+
+    "bot.76" : {
+        "type.is_a" : "entity.usecase",
+        "usecase.literal.usecase" : "XR technology",
+        "usecase.feedback.usecase_has_feedback" : [
+            "bot.66"
+        ],
+        "usecase.company.usecase_of_company" : [
+            "bot.16",
+            "bot.13"
+        ],
+        "usecase.zensar_customer.usecase_has_Zcustomer" : [
+            "bot.86"
+        ]
+    },
+
+    "bot.77" : {
+        "type.is_a" : "entity.usecase",
+        "usecase.literal.usecase" : "Credentials should be secure",
+        "usecase.feedback.usecase_has_feedback" : [
+            "bot.67"
+        ],
+        "usecase.company.usecase_of_company" : [
+            "bot.17"
+        ],
+        "usecase.zensar_customer.usecase_has_Zcustomer" : [
+            "bot.87"
+        ]
+    },
+
+    "bot.78" : {
+        "type.is_a" : "entity.usecase",
+        "usecase.literal.usecase" : "Data gathering and model creation",
+        "usecase.feedback.usecase_has_feedback" : [
+            "bot.68"
+        ],
+        "usecase.company.usecase_of_company" : [
+            "bot.18",
+            "bot.19"
+        ],
+        "usecase.zensar_customer.usecase_has_Zcustomer" : [
+            "bot.88"
+        ]
+    },
+
+    "bot.79" : {
+        "type.is_a" : "entity.usecase",
+        "usecase.literal.usecase" : "Robotics",
+        "usecase.feedback.usecase_has_feedback" : [
+            "bot.69"
+        ],
+        "usecase.company.usecase_of_company" : [
+            "bot.19"
+        ],
+        "usecase.zensar_customer.usecase_has_Zcustomer" : [
+            "bot.89"
+        ]
+    },
+
+    "bot.8" : {
+        "type.is_a" : "entity.zensar_customer",
+        "zensar_customer.literal.ZensarCustomer" : "Varient",
+        "zensar_customer.usecase.has_usecase" : [
+            "bot.7"
+        ],
+        "zensar_customer.feedback.has_feedback" : [
+            "bot.6"
+        ]
+    },
+
+    "bot.81" : {
+        "type.is_a" : "entity.zensar_customer",
+        "zensar_customer.literal.ZensarCustomer" : "Devrico",
+        "zensar_customer.usecase.has_usecase" : [
+            "bot.71"
+        ],
+        "zensar_customer.feedback.has_feedback" : [
+            "bot.61"
+        ]
+    },
+
+    "bot.82" : {
+        "type.is_a" : "entity.zensar_customer",
+        "zensar_customer.literal.ZensarCustomer" : "SILICA SOFTWARE SOLUTIONS",
+        "zensar_customer.usecase.has_usecase" : [
+            "bot.72"
+        ],
+        "zensar_customer.feedback.has_feedback" : [
+            "bot.62"
+        ]
+    },
+
+    "bot.83" : {
+        "type.is_a" : "entity.zensar_customer",
+        "zensar_customer.literal.ZensarCustomer" : "Wipro",
+        "zensar_customer.usecase.has_usecase" : [
+            "bot.73"
+        ],
+        "zensar_customer.feedback.has_feedback" : [
+            "bot.63"
+        ]
+    },
+
+    "bot.84" : {
+        "type.is_a" : "entity.zensar_customer",
+        "zensar_customer.literal.ZensarCustomer" : "Thoughtworks",
+        "zensar_customer.usecase.has_usecase" : [
+            "bot.74"
+        ],
+        "zensar_customer.feedback.has_feedback" : [
+            "bot.64"
+        ]
+    },
+
+    "bot.85" : {
+        "type.is_a" : "entity.zensar_customer",
+        "zensar_customer.literal.ZensarCustomer" : "Rediff.com",
+        "zensar_customer.usecase.has_usecase" : [
+            "bot.75"
+        ],
+        "zensar_customer.feedback.has_feedback" : [
+            "bot.65"
+        ]
+    },
+
+    "bot.86" : {
+        "type.is_a" : "entity.zensar_customer",
+        "zensar_customer.literal.ZensarCustomer" : "Samsung India",
+        "zensar_customer.usecase.has_usecase" : [
+            "bot.76"
+        ],
+        "zensar_customer.feedback.has_feedback" : [
+            "bot.66"
+        ]
+    },
+
+    "bot.87" : {
+        "type.is_a" : "entity.zensar_customer",
+        "zensar_customer.literal.ZensarCustomer" : "Oswald Labs",
+        "zensar_customer.usecase.has_usecase" : [
+            "bot.77"
+        ],
+        "zensar_customer.feedback.has_feedback" : [
+            "bot.67"
+        ]
+    },
+
+    "bot.88" : {
+        "type.is_a" : "entity.zensar_customer",
+        "zensar_customer.literal.ZensarCustomer" : "Monsoon Multimedia",
+        "zensar_customer.usecase.has_usecase" : [
+            "bot.78"
+        ],
+        "zensar_customer.feedback.has_feedback" : [
+            "bot.68"
+        ]
+    },
+
+    "bot.89" : {
+        "type.is_a" : "entity.zensar_customer",
+        "zensar_customer.literal.ZensarCustomer" : "Mistral Solutions",
+        "zensar_customer.usecase.has_usecase" : [
+            "bot.79"
+        ],
+        "zensar_customer.feedback.has_feedback" : [
+            "bot.69"
+        ]
+    },
+
+    "bot.9" : {
+        "type.is_a" : "entity.active_customers",
+        "active_customers.literal.customer_name" : "Mastercard",
+        "active_customers.company.customer_of_company" : [
+            "bot.1"
+        ]
+    },
+
+    "bot.91" : {
+        "type.is_a" : "entity.active_customers",
+        "active_customers.literal.customer_name" : "Tata consultancy services TCS",
+        "active_customers.company.customer_of_company" : [
+            "bot.11",
+            "bot.1"
+        ]
+    },
+
+    "bot.92" : {
+        "type.is_a" : "entity.active_customers",
+        "active_customers.literal.customer_name" : "mastek solution",
+        "active_customers.company.customer_of_company" : [
+            "bot.12",
+            "bot.19"
+        ]
+    },
+
+    "bot.93" : {
+        "type.is_a" : "entity.active_customers",
+        "active_customers.literal.customer_name" : "HCL technologies",
+        "active_customers.company.customer_of_company" : [
+            "bot.13",
+            "bot.11"
+        ]
+    },
+
+    "bot.94" : {
+        "type.is_a" : "entity.active_customers",
+        "active_customers.literal.customer_name" : "SPAN Infotech",
+        "active_customers.company.customer_of_company" : [
+            "bot.14"
+        ]
+    },
+
+    "bot.95" : {
+        "type.is_a" : "entity.active_customers",
+        "active_customers.literal.customer_name" : "Tata Interactive Systems",
+        "active_customers.company.customer_of_company" : [
+            "bot.15",
+            "bot.12"
+        ]
+    },
+
+    "bot.96" : {
+        "type.is_a" : "entity.active_customers",
+        "active_customers.literal.customer_name" : "WNS Global Services",
+        "active_customers.company.customer_of_company" : [
+            "bot.16",
+            "bot.13"
+        ]
+    },
+
+    "bot.97" : {
+        "type.is_a" : "entity.active_customers",
+        "active_customers.literal.customer_name" : "Xansa",
+        "active_customers.company.customer_of_company" : [
+            "bot.17"
+        ]
+    },
+
+    "bot.98" : {
+        "type.is_a" : "entity.active_customers",
+        "active_customers.literal.customer_name" : "Xerox",
+        "active_customers.company.customer_of_company" : [
+            "bot.18",
+            "bot.14",
+            "bot.19"
+        ]
+    },
+
+    "bot.99" : {
+        "type.is_a" : "entity.active_customers",
+        "active_customers.literal.customer_name" : "Zoho Corporation",
+        "active_customers.company.customer_of_company" : [
+            "bot.19"
+        ]
+    }
+}
+

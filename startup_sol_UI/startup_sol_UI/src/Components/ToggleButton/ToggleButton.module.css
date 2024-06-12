@@ -1,0 +1,21 @@
+.customToggle{
+    text-align: start;
+    font-size:18px;
+    font-weight : 300;
+    letter-spacing : 1px;
+    line-height: auto;
+    /* font-size: 20px; */
+    margin-left : 12px
+}
+
+.customToggle .formCheckInput{
+    font-size: 100px;
+    color: red;
+}
+
+/* margin-top : 12px;
+    text-align: start;
+    font-size:auto;
+    font-weight : 400;
+    letter-spacing : 1px;
+    line-height: auto */

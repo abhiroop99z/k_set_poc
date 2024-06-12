@@ -1,0 +1,467 @@
+{
+    "4": [
+        {
+            "bot_rdf_id": "bot.13093",
+            "name": "Senior Professional in Human Resources: Employee Engagement",
+            "doc_uuid": "2199bd60-6471-4be6-b260-ba04fe70c6a2",
+            "description": "An employee&#39;s level of commitment and connection to the organization benefits both parties. In this course, you&#39;ll learn the strategies for recognizing and building engagement. This course can be used in preparation for the HR Certification Institute (HRCI) SPHR certification exam.",
+            "asset": "Course",
+            "channel": "Senior Professional in Human Resources SPHR",
+            "area": "HR Certification Institute (HRCI)",
+            "collection": "Business Essentials",
+            "subject": "Human Resources",
+            "technology": "No data",
+            "shortest_path": [
+                "asset_type",
+                "document"
+            ],
+            "score": 4
+        }
+    ],
+    "3": [
+        {
+            "bot_rdf_id": "bot.13089",
+            "name": "Senior Professional in Human Resources: Employee Management",
+            "doc_uuid": "725d566e-3ee1-4c35-98da-cf5ebb6d0b76",
+            "description": "From onboarding to offboarding, there are a variety of procedures and strategies to help measure, monitor, and interact with employees. Teach employees how to perform their best and help them achieve business goals in the process. This course can be used in preparation for the HR Certification Institute (HRCI) SPHR certification exam.",
+            "asset": "Course",
+            "channel": "Senior Professional in Human Resources SPHR",
+            "area": "HR Certification Institute (HRCI)",
+            "collection": "Business Essentials",
+            "subject": "Human Resources",
+            "technology": "No data",
+            "shortest_path": [
+                "asset_type",
+                "document"
+            ],
+            "score": 3
+        }
+    ],
+    "2": [
+        {
+            "bot_rdf_id": "bot.11126",
+            "name": "Agile Stakeholder Engagement and Team Development",
+            "doc_uuid": "562df455-fea5-11e6-8638-0242c0a80b06",
+            "description": "Agile projects are only successful if the Agile team is cohesive, productive, and engaged. When managing projects for your organization, you must encourage active involvement to ensure your team has a clear understanding of project requirements and stakeholder expectations.In this course, you&#39;ll learn about team leadership and the characteristics of effective stakeholder engagement when managing Agile projects. This course also introduces you to some important Agile project management tools and techniques, such as team development strategies and developmental mastery models. Finally, this course covers effective communication tools and the benefits of using facilitation techniques like Agile games to foster collaboration and cooperation in the Agile team.This course is one of a series in the Skillsoft learning path that covers the objectives for the PMI Agile Certified Practitioner (PMI-ACP) exam. PMI-ACP is a registered mark of the Project Management Institute, Inc.",
+            "asset": "Course",
+            "channel": "PMI-ACP,Agile Project Management Bootcamp,Agile Methodologies,Agile Project Management",
+            "area": "Project Management Institute (PMI),Project Management,Digital Transformation,Software Craft,Skillsoft Bootcamps",
+            "collection": "Business Essentials,Technology & Developer",
+            "subject": "Project Management Methods,Project Management,Agility for Digital Transformation,Software Dev Practices,Project Management Bootcamps",
+            "technology": "Agile",
+            "shortest_path": [
+                "asset_type",
+                "document"
+            ],
+            "score": 2
+        },
+        {
+            "bot_rdf_id": "bot.13085",
+            "name": "Senior Professional in Human Resources: Introduction to SPHR",
+            "doc_uuid": "60a71bcc-c92a-4f61-9395-94b4c7d1d524",
+            "description": "In this course, you&#39;ll discover the qualifications for HR certification and who is eligible. You&#39;ll also learn about the contents of the SPHR Exam by HRCI and how the test is constructed. In addition, you&#39;ll try the HR skill assessment tool to determine skill level and develop a personalized study plan. This course can be used in preparation for the HR Certification Institute (HRCI) SPHR certification exam.",
+            "asset": "Course",
+            "channel": "Senior Professional in Human Resources SPHR",
+            "area": "HR Certification Institute (HRCI)",
+            "collection": "Business Essentials",
+            "subject": "Human Resources",
+            "technology": "No data",
+            "shortest_path": [
+                "asset_type",
+                "document"
+            ],
+            "score": 2
+        },
+        {
+            "bot_rdf_id": "bot.110211",
+            "name": "CompTIA PenTest+: Planning for an Engagement",
+            "doc_uuid": "460de1a0-e433-11e8-a1d6-17e0846634bd",
+            "description": "Discover how penetration testing exposes weaknesses in security. During this course, you will learn all about the CompTIA PenTest&#43; exam. Begin by getting to know your audience and the rules of engagement for penetration tests. Next, compare resources, requirements, and budgets. Observe how to conduct an impact analysis and trace remediation timelines. Learn how to review disclaimers and confirm engagement support resources; consider technical constraints, and examine contracts and agreements, such as statements of work. Evaluate environmental differences between clients. Finally, learn why it is important to get written authorization instead of an oral agreement, before the execution of a penetration test.",
+            "asset": "Course",
+            "channel": "Penetration Testing,CompTIA PenTest+",
+            "area": "CompTIA,Security",
+            "collection": "Technology & Developer",
+            "subject": "Cybersecurity,Information Security",
+            "technology": "No data",
+            "shortest_path": [
+                "asset_type",
+                "document"
+            ],
+            "score": 2
+        },
+        {
+            "bot_rdf_id": "bot.11305",
+            "name": "Engagement der Stakeholder managen (PMBOK Guide Sechste Ausgabe)",
+            "doc_uuid": "0cc9510f-0b9d-46f6-85c4-623a90d739c4",
+            "description": "Fr ein erfolgreiches Projektmanagement ist ein Plan zur Einbeziehung von Stakeholdern erforderlich, der fr das Projekt sehr wertvoll ist. In diesem Kurs lernen Sie die Projektmanagementprozesse Engagement der Stakeholder managen und Engagement der Stakeholder berwachen kennen.",
+            "asset": "Course",
+            "channel": "CAPM,PMP",
+            "area": "Project Management Institute (PMI)",
+            "collection": "Business Essentials,Technology & Developer",
+            "subject": "Projektmanagement",
+            "technology": "PMBOK Guide",
+            "shortest_path": [
+                "asset_type",
+                "document"
+            ],
+            "score": 2
+        },
+        {
+            "bot_rdf_id": "bot.13084",
+            "name": "Senior Professional in Human Resources: Human Relations",
+            "doc_uuid": "97c25a6f-7fe4-47f8-b0fa-267cec130121",
+            "description": "Each week, more time is spent in the workplace than any other location, which leads employees to form relationships with the people they work with. It is incumbent upon HR to create an environment that is conducive to making that healthy for the employees while productive for the organization. Understanding human relations skills is not sufficient; the organization needs to embody that spirit as well. In this course, you&#39;ll learn how to prepare the organization to be more receptive to building positive human relations. This course can be used in preparation for the HR Certification Institute (HRCI) SPHR certification exam.",
+            "asset": "Course",
+            "channel": "Senior Professional in Human Resources SPHR",
+            "area": "HR Certification Institute (HRCI)",
+            "collection": "Business Essentials",
+            "subject": "Human Resources",
+            "technology": "No data",
+            "shortest_path": [
+                "asset_type",
+                "document"
+            ],
+            "score": 2
+        },
+        {
+            "bot_rdf_id": "bot.116683",
+            "name": "Security Rules: Rules of Engagement",
+            "doc_uuid": "6dcbfb79-9565-4ff4-80bc-96a65b97fe87",
+            "description": "Prior to performing any penetration testing, it is important to outline the Rules of Engagement (RoE) with the client. Begin this 14-video course with a general overview of the RoE, how it relates to business, and the potential consequences of not having the RoE in place. Look at benefits of having an easy reference checklist prepared when defining RoE. Learn how to determine the appropriate scope of engagement; examine client (IT staff) considerations; and view common risks and limitations, such as impact on systems. Explore the logistics and considerations such as testing tools, personnel, and test schedules. Delve into incident handling and best practices; testing and best practices, and also best practices in information handling. Examine elements that should be included in final reports, such as action taken, problems, and findings. Look at liabilities, warranty, limitation of a liability, and indemnification considerations to include when outlining the intent of testing activities. Finally, learn how to ensure proper authorization has been granted to commence any testing.",
+            "asset": "Course",
+            "channel": "Security Core Concepts",
+            "area": "Security",
+            "collection": "Technology & Developer",
+            "subject": "Information Security",
+            "technology": "IT Security",
+            "shortest_path": [
+                "asset_type",
+                "document"
+            ],
+            "score": 2
+        },
+        {
+            "bot_rdf_id": "bot.13083",
+            "name": "Senior Professional in Human Resources: Compensation Management",
+            "doc_uuid": "42cda305-3f1f-4bc2-85d5-9dc11accbf4d",
+            "description": "It&#39;s not all about the moneyor is it In this course, you&#39;ll explore the different types of compensation and how to determine how much an individual is paid and by what type of compensation based on the type of work being done. Though HR is not responsible for payroll, they are usually the first line of response, so understanding how payroll works and verifying calculations will be important. This course can be used in preparation for the HR Certification Institute (HRCI) SPHR certification exam.",
+            "asset": "Course",
+            "channel": "Senior Professional in Human Resources SPHR",
+            "area": "HR Certification Institute (HRCI)",
+            "collection": "Business Essentials",
+            "subject": "Human Resources",
+            "technology": "No data",
+            "shortest_path": [
+                "asset_type",
+                "document"
+            ],
+            "score": 2
+        },
+        {
+            "bot_rdf_id": "bot.13086",
+            "name": "Senior Professional in Human Resources: Job Architecture",
+            "doc_uuid": "352b9775-dec6-4277-b7cf-c53faae071f7",
+            "description": "Why is there always so much confusion on how much to pay for a job when there is a very well defined process Let&#39;s uncover this well-kept secret and why there is confusion. In this course, you&#39;ll also learn how to squash all the noise and better respond to inquiries on how salaries for jobs are derived. This course can be used in preparation for the HR Certification Institute (HRCI) SPHR certification exam.",
+            "asset": "Course",
+            "channel": "Senior Professional in Human Resources SPHR",
+            "area": "HR Certification Institute (HRCI)",
+            "collection": "Business Essentials",
+            "subject": "Human Resources",
+            "technology": "No data",
+            "shortest_path": [
+                "asset_type",
+                "document"
+            ],
+            "score": 2
+        },
+        {
+            "bot_rdf_id": "bot.1321",
+            "name": "Managing Stakeholder Engagement (PMBOK Guide Sixth Edition)",
+            "doc_uuid": "4b2b3f83-c958-11e7-8c81-9212ca48e307",
+            "description": "Managing projects successfully requires a plan for engaging stakeholders, which is very valuable to the project. In this course, you&#39;ll learn about the Manage Stakeholder Engagement and Monitor Stakeholder Engagement project management processes.",
+            "asset": "Course",
+            "channel": "CAPM,PMBOK Guide,PMP ATP Bootcamp: August/September Cohort,PMP,Project Management Fundamentals Bootcamp",
+            "area": "Project Management Institute (PMI),Project Management,Skillsoft Bootcamps",
+            "collection": "Business Essentials,Technology & Developer",
+            "subject": "Project Management Bootcamps,Project Management,Project Management Methods",
+            "technology": "PMBOK Guide",
+            "shortest_path": [
+                "asset_type",
+                "document"
+            ],
+            "score": 2
+        },
+        {
+            "bot_rdf_id": "bot.131185",
+            "name": "SRE Engagement: The SRE Engagement Model",
+            "doc_uuid": "e5912fe1-f45d-4058-be4b-6e3fadd7efdf",
+            "description": "The SRE engagement model and SRE service lifecycle have note-worthy similarities and differences to the traditional software development life cycle. In this course, you&#39;ll explore these differences and investigate the SRE engagement model&#39;s components and how to work with it in various circumstances.You&#39;ll learn the steps for setting up and building SRE service relationships and establishing a roadmap for sprints and communication. You&#39;ll examine how to measure the impact of SRE engagement, set ground rules for SRE teams, and sustain effective relationships with other SREs and developers.Next, you&#39;ll study the steps to take for scaling SRE to larger environments and for ending an engagement. Lastly, you&#39;ll review case studies to see the results of how others have used the SRE engagement model used in real-life.",
+            "asset": "Course",
+            "channel": "Site Reliability Engineering",
+            "area": "Infrastructure & Operations",
+            "collection": "Technology & Developer",
+            "subject": "IT Trends",
+            "technology": "SRE",
+            "shortest_path": [
+                "asset_type",
+                "document"
+            ],
+            "score": 2
+        },
+        {
+            "bot_rdf_id": "bot.110209",
+            "name": "CompTIA PenTest+: Scoping & Engagement",
+            "doc_uuid": "85a34abf-3d24-4561-bcbb-328f53c28864",
+            "description": "Penetration testing is a coordinated and simulated cyberattack used to evaluate the security of a computer system or computer network. The initial and critical planning phase of penetration testing is key to a successful engagement process. In this course, you&#39;ll explore the fundamentals of penetration testing, including a comparison of governance, risk, and compliance concepts. You&#39;ll examine legal concepts such as service level agreements, statements of work, non-disclosure agreements, and master service agreements. You&#39;ll learn the importance of scoping and organizational and customer requirements, including common standards and methodologies, rules of engagement, environmental considerations, target list definition, and scope of the engagement validation. This course is one of a collection that helps prepare learners for the CompTIA PenTest&#43; (PT0-002) certification exam.",
+            "asset": "Course",
+            "channel": "CompTIA PenTest+",
+            "area": "CompTIA",
+            "collection": "Technology & Developer",
+            "subject": "Cybersecurity",
+            "technology": "CompTIA",
+            "shortest_path": [
+                "asset_type",
+                "document"
+            ],
+            "score": 2
+        },
+        {
+            "bot_rdf_id": "bot.1322",
+            "name": "Planning Stakeholder Engagement (PMBOK Guide Sixth Edition)",
+            "doc_uuid": "4b2a5520-c958-11e7-8c81-9212ca48e307",
+            "description": "Managing projects requires managing your relationships with all stakeholders, both inside and outside of the company. Planning effective stakeholder engagement aids you in building and maintaining these relationships to increase the odds of project success. In this course, you&#39;ll learn about the Identify Stakeholders and Plan Stakeholder Engagement project management processes.",
+            "asset": "Course",
+            "channel": "CAPM,PMBOK Guide,PMP ATP Bootcamp: August/September Cohort,PMP,Project Management Fundamentals Bootcamp",
+            "area": "Project Management Institute (PMI),Project Management,Skillsoft Bootcamps",
+            "collection": "Business Essentials,Technology & Developer",
+            "subject": "Project Management Bootcamps,Project Management,Project Management Methods",
+            "technology": "PMBOK Guide",
+            "shortest_path": [
+                "asset_type",
+                "document"
+            ],
+            "score": 2
+        },
+        {
+            "bot_rdf_id": "bot.13091",
+            "name": "Senior Professional in Human Resources: Managing within the Law",
+            "doc_uuid": "74bec060-cd42-4d93-83a4-2d2740e437ab",
+            "description": "HR professionals can help managers stay compliant with employment laws. In this course, you&#39;ll learn about the essential skills for managing employees effectively while adhering to company practices and abiding by the law. This course can be used in preparation for the HR Certification Institute (HRCI) SPHR certification exam.",
+            "asset": "Course",
+            "channel": "Senior Professional in Human Resources SPHR",
+            "area": "HR Certification Institute (HRCI)",
+            "collection": "Business Essentials",
+            "subject": "Human Resources",
+            "technology": "No data",
+            "shortest_path": [
+                "asset_type",
+                "document"
+            ],
+            "score": 2
+        },
+        {
+            "bot_rdf_id": "bot.110197",
+            "name": "CompTIA PenTest+: Scoping an Engagement",
+            "doc_uuid": "0759a7e0-e83f-11e8-9bd2-75d675866a18",
+            "description": "How far does a security test need to go This course shows you how to set the scope of a security penetration test. Begin by identifying security assessment types, how to select security targets, and how to determine the testing scope strategy. Next, you will determine who tests the security and learn how to confirm their test methods. Discover how to review the test outcome to determine the level of acceptable risks, risk impacts, and risk treatments. Learn how to avoid scope creep with clients, and identify threat actors and agents. Conclude by aligning tests to regulations and standards, such as PCI DSS, FISMA, MARS-E, HIPAA, SOX, and ISO.",
+            "asset": "Course",
+            "channel": "Penetration Testing,CompTIA PenTest+",
+            "area": "CompTIA,Security",
+            "collection": "Technology & Developer",
+            "subject": "Cybersecurity,Information Security",
+            "technology": "No data",
+            "shortest_path": [
+                "asset_type",
+                "document"
+            ],
+            "score": 2
+        },
+        {
+            "bot_rdf_id": "bot.13088",
+            "name": "Senior Professional in Human Resources: HR Tools and Processes",
+            "doc_uuid": "b0f67bc6-9bda-436a-a252-1ea5234e446d",
+            "description": "Every profession has its bag of tricks, and HR is no different  it borrows from everyone else! In this course, you&#39;ll learn about some of the essential tools and processes to help become a trusted partner and adviser. This course can be used in preparation for the HR Certification Institute (HRCI) SPHR certification exam.",
+            "asset": "Course",
+            "channel": "Senior Professional in Human Resources SPHR",
+            "area": "HR Certification Institute (HRCI)",
+            "collection": "Business Essentials",
+            "subject": "Human Resources",
+            "technology": "No data",
+            "shortest_path": [
+                "asset_type",
+                "document"
+            ],
+            "score": 2
+        },
+        {
+            "bot_rdf_id": "bot.13095",
+            "name": "Senior Professional in Human Resources: HR Organization",
+            "doc_uuid": "241ec22d-632f-456c-a490-942081fc0a2c",
+            "description": "What is human resources  people or function In defining this nucleus, you&#39;ll explore both  what it means to the company, its function, roles, responsibilities, and essential measurements. You&#39;ll learn how HR can be effective for the organization while providing value to its stakeholders. This course can be used in preparation for the HR Certification Institute (HRCI) SPHR certification exam.",
+            "asset": "Course",
+            "channel": "Senior Professional in Human Resources SPHR",
+            "area": "HR Certification Institute (HRCI)",
+            "collection": "Business Essentials",
+            "subject": "Human Resources",
+            "technology": "No data",
+            "shortest_path": [
+                "asset_type",
+                "document"
+            ],
+            "score": 2
+        },
+        {
+            "bot_rdf_id": "bot.13096",
+            "name": "Senior Professional in Human Resources: SPHR Exam Summary",
+            "doc_uuid": "642d3bcc-f4b4-4dff-9af3-2d4f34e298fb",
+            "description": "It&#39;s almost time for the HR Certification Institute (HRCI) SPHR certification exam, and there are just a few more pointers that will add the finishing touches. In this course, you&#39;ll learn how to reinforce your content knowledge by applying good study habits and deploying testing strategies. As a bonus, you&#39;ll explore additional content to expand your knowledge base or save for recertification credits. This course can be used in preparation for the HR Certification Institute (HRCI) SPHR certification exam.",
+            "asset": "Course",
+            "channel": "Senior Professional in Human Resources SPHR",
+            "area": "HR Certification Institute (HRCI)",
+            "collection": "Business Essentials",
+            "subject": "Human Resources",
+            "technology": "No data",
+            "shortest_path": [
+                "asset_type",
+                "document"
+            ],
+            "score": 2
+        },
+        {
+            "bot_rdf_id": "bot.13082",
+            "name": "Senior Professional in Human Resources: Labor Relations",
+            "doc_uuid": "36e38fd3-fc2a-418f-a05c-e83a99c8d36b",
+            "description": "Whether a company has a union or not has nothing to do with HR or the company, but it&#39;s important to know how to manage effectively with a union. In this course, you&#39;ll explore processes when a union interacts with an organization and organizes a campaign, and how to effectively manage with a union contract in effect. This course can be used in preparation for the HR Certification Institute (HRCI) SPHR certification exam.",
+            "asset": "Course",
+            "channel": "Senior Professional in Human Resources SPHR",
+            "area": "HR Certification Institute (HRCI)",
+            "collection": "Business Essentials",
+            "subject": "Human Resources",
+            "technology": "No data",
+            "shortest_path": [
+                "asset_type",
+                "document"
+            ],
+            "score": 2
+        },
+        {
+            "bot_rdf_id": "bot.13080",
+            "name": "Senior Professional in Human Resources: Safety and Health",
+            "doc_uuid": "b5d20765-a3d0-4866-bd41-a8a2ad92e3ad",
+            "description": "Employers have the legal responsibility to provide a safe and healthy working environment. In this course, you&#39;ll learn how to manage the risks and hazards for your various worksites. This course can be used in preparation for the HR Certification Institute (HRCI) SPHR certification exam.",
+            "asset": "Course",
+            "channel": "Senior Professional in Human Resources SPHR",
+            "area": "HR Certification Institute (HRCI)",
+            "collection": "Business Essentials",
+            "subject": "Human Resources",
+            "technology": "No data",
+            "shortest_path": [
+                "asset_type",
+                "document"
+            ],
+            "score": 2
+        },
+        {
+            "bot_rdf_id": "bot.13081",
+            "name": "Senior Professional in Human Resources: Employment Legislation",
+            "doc_uuid": "f8d2d321-8ea3-402d-a3e4-bc92c73650c3",
+            "description": "In this course, you&#39;ll explore and interpret the US laws and regulations that impact the HR Body of Knowledge. In addition, you&#39;ll learn the process of how the US constructs and then passes laws. Specifically, you&#39;ll explore labor laws and executive orders, as well as civil rights, employment, privacy and consumer protection, and federal government and agency legislation. This course can be used in preparation for the HR Certification Institute (HRCI) SPHR certification exam.",
+            "asset": "Course",
+            "channel": "Senior Professional in Human Resources SPHR",
+            "area": "HR Certification Institute (HRCI)",
+            "collection": "Business Essentials",
+            "subject": "Human Resources",
+            "technology": "No data",
+            "shortest_path": [
+                "asset_type",
+                "document"
+            ],
+            "score": 2
+        },
+        {
+            "bot_rdf_id": "bot.13092",
+            "name": "Senior Professional in Human Resources: Risk Management",
+            "doc_uuid": "8ddd108d-3f85-4ecc-b709-4d5ef42b906c",
+            "description": "HR is concerned with security and access issues to property and data. In this course, you&#39;ll learn about the various types of organizational risks that keep HR on their toes, and you&#39;ll explore the risks and mitigation actions that HR can leverage. This course can be used in preparation for the HR Certification Institute (HRCI) SPHR certification exam.",
+            "asset": "Course",
+            "channel": "Senior Professional in Human Resources SPHR",
+            "area": "HR Certification Institute (HRCI)",
+            "collection": "Business Essentials",
+            "subject": "Human Resources",
+            "technology": "No data",
+            "shortest_path": [
+                "asset_type",
+                "document"
+            ],
+            "score": 2
+        },
+        {
+            "bot_rdf_id": "bot.13094",
+            "name": "Senior Professional in Human Resources: Benefits Management",
+            "doc_uuid": "1c069f9d-5d2b-42e9-9532-5ca72fc32947",
+            "description": "Top of mind for most recruits is &#34;What benefits are offered&#34; This is usually generalized to mean &#34;group healthcare,&#34; but there are so many more options to explore. In this course, you&#39;ll learn about which benefits are mandatory, optional, and not required to be offered, and which rules must be followed. It&#39;s a relatively straightforward topic, but heavily backed with legislation that can easily jeopardize an organization&#39;s entire plan. This course can be used in preparation for the HR Certification Institute (HRCI) SPHR certification exam.",
+            "asset": "Course",
+            "channel": "Senior Professional in Human Resources SPHR",
+            "area": "HR Certification Institute (HRCI)",
+            "collection": "Business Essentials",
+            "subject": "Human Resources",
+            "technology": "No data",
+            "shortest_path": [
+                "asset_type",
+                "document"
+            ],
+            "score": 2
+        },
+        {
+            "bot_rdf_id": "bot.13090",
+            "name": "Senior Professional in Human Resources: Talent Sourcing",
+            "doc_uuid": "2d00f46b-e2ef-489c-af2b-d499103bb32d",
+            "description": "Great branding isn&#39;t just for marketing. Employees are consumers too, and that same marketing power should also be directed toward the employer brand to help create great candidate experiences and attract the best and brightest talent. Recognizing that the US is in the midst of a talent shortage, HR is forced to become more creative and prescriptive in sourcing efforts. In this course, you&#39;ll learn how to create a sustainable talent pipeline. This course can be used in preparation for the HR Certification Institute (HRCI) SPHR certification exam.",
+            "asset": "Course",
+            "channel": "Senior Professional in Human Resources SPHR",
+            "area": "HR Certification Institute (HRCI)",
+            "collection": "Business Essentials",
+            "subject": "Human Resources",
+            "technology": "No data",
+            "shortest_path": [
+                "asset_type",
+                "document"
+            ],
+            "score": 2
+        },
+        {
+            "bot_rdf_id": "bot.13087",
+            "name": "Senior Professional in Human Resources: Performance Management",
+            "doc_uuid": "78b9eb05-5b5e-48e4-adc7-ffc67bfd89ba",
+            "description": "Performance management is one of the most difficult organizational processes. In this course, you&#39;ll discover why, and learn how time has transformed some of the processes with negative intent. In addition, you&#39;ll explore HR&#39;s role in helping managers and employees be successful. This course can be used in preparation for the HR Certification Institute (HRCI) SPHR certification exam.",
+            "asset": "Course",
+            "channel": "Senior Professional in Human Resources SPHR",
+            "area": "HR Certification Institute (HRCI)",
+            "collection": "Business Essentials",
+            "subject": "Human Resources",
+            "technology": "No data",
+            "shortest_path": [
+                "asset_type",
+                "document"
+            ],
+            "score": 2
+        },
+        {
+            "bot_rdf_id": "bot.13290",
+            "name": "Creating Engagement with Virtual Reality",
+            "doc_uuid": "426d57e2-4bc6-449c-a34d-4eb04c583c1c",
+            "description": "Virtual reality (VR) isn&#39;t new, so why all the attention now Major strides in artificial intelligence and the 3D environment have brought VR renewed attention.In this course, youll learn about the characteristics of VR and the broad range of uses for VR in the business cyberspace. You&#39;ll explore the factors affecting a VR participant&#39;s sense of presence and how to distinguish between different levels of the immersive environment. Finally, you&#39;ll learn about the equipment typically used for both mobile and high-powered VR experiences.",
+            "asset": "Course",
+            "channel": "Disruptive Technologies",
+            "area": "Digital Transformation",
+            "collection": "Business Essentials",
+            "subject": "Essentials of Digital Transformation",
+            "technology": "No data",
+            "shortest_path": [
+                "asset_type",
+                "document"
+            ],
+            "score": 2
+        }
+    ]
+}

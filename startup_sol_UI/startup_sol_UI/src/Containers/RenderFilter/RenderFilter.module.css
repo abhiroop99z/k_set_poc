@@ -1,0 +1,158 @@
+.containerFilter {
+}
+
+h3 {
+  /* background-color: red; */
+}
+
+.clearButton {
+  /* display: inline-block; */
+  /* padding: 10px; */
+  /* margin-right: 5px; */
+  /* height: 50px; */
+  /* min-width: 100px; */
+  float: left;
+  margin-left: 10px;
+  margin-top: 6px;
+  background: #348aa7;
+  border: none;
+  outline: none;
+  color: #ffffff;
+  font-family: inherit;
+  font-weight: 400;
+  font-size: 12px;
+  border-radius: 12px;
+  box-shadow: 0 5px 0px darken(#348aa7, 0%);
+  border-bottom: 2px solid darken(#348aa7, 3%);
+}
+
+.clearButton:focus {
+  outline: none !important;
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+  border: none !important;
+}
+
+/* Create box around the filters */
+/* Comment it for back to previous updated normal */
+.filterBox {
+  width: 110%;
+  margin-top: 1rem;
+  margin-left: 10px;
+  margin-bottom: 1rem;
+  border: 1px solid rgb(240, 236, 236);
+  border-radius: 15px;
+  box-shadow: 2px 2px 28px -1px rgb(148 148 148 / 44%);
+}
+
+.filterHeadingTitle {
+  background-color: #fff;
+  margin-top: 12px;
+  text-align: start;
+  font-size: 20px;
+  font-weight: 500;
+  /* margin : 2px; */
+  height: 60px;
+}
+
+/* Titile of all the filters */
+.FilterTitle {
+  margin-top: 1px;
+  margin-bottom: 1px;
+  font-size: 18px;
+  font-weight: 500;
+  text-align: left;
+  padding-right: 3px;
+  padding-bottom: 3px;
+  padding-top: 10px;
+  padding-left: 10px;
+  /* border: 2px solid green; */
+}
+
+.FilterTitleLine {
+  width: 70px;
+  margin-left: 10px;
+}
+
+.row {
+  max-height: 200px;
+  /* height: 70vh; */
+  overflow: auto;
+}
+
+.rows {
+  min-height: 150px;
+}
+
+/* icons */
+
+.dropDownCircle {
+  float: right;
+  position: relative;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-right: 5px;
+}
+
+/* Apply button animations */
+
+.bump {
+  animation: bump 300ms ease-out;
+}
+
+@keyframes bump {
+  0% {
+    transform: scale(1);
+  }
+  10% {
+    transform: scale(0.9);
+  }
+  30% {
+    transform: scale(1.1);
+  }
+  50% {
+    transform: scale(1.15);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+/* Custom scroll bar start */
+::-webkit-scrollbar {
+  /* Hide the scroll bar */
+  /* display: none;  */
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  /* display: none; */
+  /* box-shadow: inset 0 0 5px rgb(25, 77, 95); */
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  /* display: none; */
+  background: rgb(230, 240, 243);
+  border-radius: 10px;
+}
+
+/* Custom scroll bar end */
+
+/* Adding responsive behaviour */
+@media (max-width: 900px) {
+  .containerFilter {
+    position: relative;
+  }
+}
+
+/*
+@media (min-width : 990px ) and (max-width : 1000px){
+    
+    .row {
+        min-height :50px; 
+    }
+    .rows {
+        min-height :10px; 
+    }
+} */
